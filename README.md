@@ -1,5 +1,5 @@
+# code will be added soon
 # DQ-Tensor-Fine-Tuning
-code will be added soon
 DQ Tensor Fine-Tuning is a novel approach to efficiently fine-tune transformer models by integrating dynamically quantized tensors into the classification layer. This technique enhances training efficiency and model adaptability for various NLP tasks.
 
 1) Uses dynamically quantized tensors for efficient parameter updates
